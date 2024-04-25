@@ -5,5 +5,6 @@ Clone repository
 instructions
 
 `pip install -r numpy`
+
 `pip install -r pygame`
 
