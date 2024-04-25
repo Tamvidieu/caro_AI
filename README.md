@@ -1,8 +1,8 @@
 Clone repository
 
-`git clone https://github.com/hieunguyen1053/gomoku-ai`
+`git clone https://github.com/Tamvidieu/caro_AI`
 
-inductor
+instructions
 
 `pip install -r numpy`
 `pip install -r pygame`
