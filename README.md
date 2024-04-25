@@ -8,3 +8,4 @@ instructions
 
 `pip install -r pygame`
 
+Nguyen Duc Tam
